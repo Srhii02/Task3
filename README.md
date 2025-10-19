@@ -3,6 +3,8 @@
 This document describes the Frontend User Interface (UI) for the Server Management Application.
 The interface is designed to be modern, responsive, and user-friendly, allowing users to easily manage server data with style and simplicity. 💻✨
 
+<img width="2478" height="1331" alt="Screenshot 2025-10-19 222910" src="https://github.com/user-attachments/assets/3a039e18-d8fb-479c-8bc4-c18277693e6f" />
+
 🚀 Key Features
 
 🧭 Single-Page Application (SPA):
@@ -10,6 +12,10 @@ Built entirely with React, the UI runs smoothly on a single page without reloads
 
 ⚙️ Full CRUD Operations:
 Users can view, add, and delete servers through a clean interactive dashboard.
+
+
+https://github.com/user-attachments/assets/ffce3000-6174-4d6f-ae82-1a1c70e88ddd
+
 
 🌗 Light & Dark Mode:
 A built-in theme toggle lets users switch between light and dark themes.
