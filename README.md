@@ -5,6 +5,8 @@ The interface is designed to be modern, responsive, and user-friendly, allowing 
 
 <img width="2478" height="1331" alt="Screenshot 2025-10-19 222910" src="https://github.com/user-attachments/assets/3a039e18-d8fb-479c-8bc4-c18277693e6f" />
 
+<img width="2240" height="1173" alt="Screenshot 2025-10-20 170239" src="https://github.com/user-attachments/assets/5dead583-e0d7-4bfe-814e-48ea9600334c" />
+
 🚀 Key Features
 
 🧭 Single-Page Application (SPA):
